@@ -13,5 +13,8 @@
  <br/>
  <h2>Who is happy in his/her life ?</h2>
  <h3>Ans- The person who do good work without thinking about results</h3>
+ <br>
+ <h2>Who live a good life ?</h2>
+ <h3>The person who don't try control it's surronding</h3>
 </body>
 </html>
